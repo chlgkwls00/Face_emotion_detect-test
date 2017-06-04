@@ -1,0 +1,4 @@
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Release\Reconocimiento_facial.Registrar.resources
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Release\FaceRecognize_base_Progeam.Properties.Resources.resources
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Release\Reconocimiento_facial.Reconocimiento.resources
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Release\Reconocimiento facial v2.0.csproj.GenerateResource.Cache

@@ -1,0 +1,46 @@
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/Reconocimiento_facial.Registrar.resources
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/FaceRecognize_base_Progeam.Properties.Resources.resources
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/Reconocimiento_facial.Reconocimiento.resources
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/Reconocimiento facial v2.0.csproj.GenerateResource.Cache
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/Reconocimiento facial v2.0.csproj.CoreCompileInputs.cache
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/얼굴인식 베이스 프로그램.exe
+/Users/shinkansan/Google 드라이브/2017_New/C# 체험전 개발/Reconocimiento facial v2.0/Reconocimiento facial/obj/Debug/얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\FaceRecognize_base_Progeam.Properties.Resources.resources
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.Cache
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Google 드라이브\2017_New\C# 체험전 개발\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\FaceRecognize_base_Progeam.Properties.Resources.resources
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.Cache
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Downloads\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\FaceRecognize_base_Progeam.Properties.Resources.resources
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Desktop\Testbed\Reconocimiento facial v2.0\Reconocimiento facial\obj\Debug\Reconocimiento_facial.emotion.resources
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\Reconocimiento_facial.emotion.resources
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Registrar.resources
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\faceemotion.Properties.Resources.resources
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\Reconocimiento_facial.Reconocimiento.resources
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\Reconocimiento facial v2.0.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\obj\Debug\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\Desktop\Testbed\얼굴인식 감정감지 베이스 프로그램\Reconocimiento facial\bin\Debug\얼굴인식 베이스 프로그램.pdb

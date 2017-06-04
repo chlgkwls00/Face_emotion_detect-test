@@ -1,0 +1,149 @@
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\bin\Debug\UsersFace.mdb
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe.config
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe.manifest
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.application
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Emgu.CV.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Emgu.CV.UI.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Emgu.Util.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Microsoft.ProjectOxford.Common.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Microsoft.ProjectOxford.Emotion.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Newtonsoft.Json.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\System.Net.Http.Extensions.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\System.Net.Http.Primitives.dll
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\Newtonsoft.Json.xml
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\System.Net.Http.Extensions.xml
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\bin\Beta\System.Net.Http.Primitives.xml
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\Face Recognize.csproj.App.config
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\Reconocimiento_facial.emotion.resources
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\Reconocimiento_facial.Registrar.resources
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\faceemotion.Properties.Resources.resources
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\Reconocimiento_facial.Reconocimiento.resources
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\faceemotion.result.resources
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\Face Recognize.csproj.GenerateResource.Cache
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.exe.manifest
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.application
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.exe
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.pdb
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\Face Recognize.csprojResolveAssemblyReference.cache
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\bin\Debug\UsersFace.mdb
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\얼굴인식 베이스 프로그램.exe.config
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Emgu.CV.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Emgu.CV.UI.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Emgu.Util.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Microsoft.ProjectOxford.Common.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Newtonsoft.Json.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\System.Net.Http.Extensions.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\System.Net.Http.Primitives.dll
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\Newtonsoft.Json.xml
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\System.Net.Http.Extensions.xml
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\bin\Beta\System.Net.Http.Primitives.xml
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\Face Recognize.csproj.App.config
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\Face Recognize.csprojResolveAssemblyReference.cache
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\Reconocimiento_facial.emotion.resources
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\Reconocimiento_facial.Registrar.resources
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\faceemotion.Properties.Resources.resources
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\faceemotion.result.resources
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\Face Recognize.csproj.GenerateResource.Cache
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\Shinkansan\Desktop\Face 1.7M.2\obj\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\shink\Face_emotion_detect\obj\Beta\Face Recognize.csproj.App.config
+C:\Users\shink\Face_emotion_detect\obj\Beta\Face Recognize.csprojResolveAssemblyReference.cache
+C:\Users\shink\Face_emotion_detect\obj\Beta\Reconocimiento_facial.emotion.resources
+C:\Users\shink\Face_emotion_detect\obj\Beta\Reconocimiento_facial.Registrar.resources
+C:\Users\shink\Face_emotion_detect\obj\Beta\faceemotion.Properties.Resources.resources
+C:\Users\shink\Face_emotion_detect\obj\Beta\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\shink\Face_emotion_detect\obj\Beta\faceemotion.result.resources
+C:\Users\shink\Face_emotion_detect\obj\Beta\Face Recognize.csproj.GenerateResource.Cache
+C:\Users\shink\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\shink\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\shink\Face_emotion_detect\bin\Beta\bin\Debug\UsersFace.mdb
+C:\Users\shink\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe.config
+C:\Users\shink\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\shink\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\shink\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\shink\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\shink\Face_emotion_detect\bin\Beta\Emgu.CV.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\Emgu.CV.UI.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\Emgu.Util.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\Microsoft.ProjectOxford.Common.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\Newtonsoft.Json.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\System.Net.Http.Extensions.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\System.Net.Http.Primitives.dll
+C:\Users\shink\Face_emotion_detect\bin\Beta\Newtonsoft.Json.xml
+C:\Users\shink\Face_emotion_detect\bin\Beta\System.Net.Http.Extensions.xml
+C:\Users\shink\Face_emotion_detect\bin\Beta\System.Net.Http.Primitives.xml
+C:\Users\shink\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\shink\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\shink\Face_emotion_detect\obj\Beta\faceemotion.Startup.resources
+\\Mac\Home\얼굴인식 감정감지 베이스 프로그램 -git\Face_emotion_detect\obj\Beta\faceemotion.Startup.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\bin\Debug\UsersFace.mdb
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe.config
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Emgu.CV.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Emgu.CV.UI.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Emgu.Util.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Microsoft.ProjectOxford.Common.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Newtonsoft.Json.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\System.Net.Http.Extensions.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\System.Net.Http.Primitives.dll
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\Newtonsoft.Json.xml
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\System.Net.Http.Extensions.xml
+C:\Users\user\Documents\GitHub\Face_emotion_detect\bin\Beta\System.Net.Http.Primitives.xml
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\Face Recognize.csproj.App.config
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\Face Recognize.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\Reconocimiento_facial.emotion.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\Reconocimiento_facial.Registrar.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\faceemotion.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\faceemotion.result.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\faceemotion.Startup.resources
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\Face Recognize.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\user\Documents\GitHub\Face_emotion_detect\obj\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\Face Recognize.csproj.App.config
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\Face Recognize.csprojResolveAssemblyReference.cache
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\Reconocimiento_facial.emotion.resources
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\Reconocimiento_facial.Registrar.resources
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\faceemotion.Properties.Resources.resources
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\Reconocimiento_facial.Reconocimiento.resources
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\faceemotion.result.resources
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\faceemotion.Startup.resources
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\Face Recognize.csproj.GenerateResource.Cache
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\bin\Debug\UsersFace.mdb
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\얼굴인식 베이스 프로그램.exe.config
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\얼굴인식 베이스 프로그램.application
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\얼굴인식 베이스 프로그램.exe
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\얼굴인식 베이스 프로그램.pdb
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Emgu.CV.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Emgu.CV.UI.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Emgu.Util.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Microsoft.ProjectOxford.Common.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Microsoft.ProjectOxford.Emotion.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Newtonsoft.Json.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\System.Net.Http.Extensions.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\System.Net.Http.Primitives.dll
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\Newtonsoft.Json.xml
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\System.Net.Http.Extensions.xml
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\bin\Beta\System.Net.Http.Primitives.xml
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\얼굴인식 베이스 프로그램.exe.manifest
+C:\Users\choihajin\Desktop\Face_emotion_detect-test\Face_emotion_detect-test\obj\Beta\얼굴인식 베이스 프로그램.application
